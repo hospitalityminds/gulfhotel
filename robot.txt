@@ -1,0 +1,5 @@
+User-agent: * 
+
+Allow: /
+
+Sitemap: http://gulfhotelmumbai.com/sitemap.xml
